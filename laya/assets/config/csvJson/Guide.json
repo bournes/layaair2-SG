@@ -1,0 +1,5 @@
+﻿{
+"titles":["stepId","type","condition","isForce","clickAreaParam","speakParam","fingerParam","fingerRotation","fingerEffectType","speakContent"],
+"data":[[1,0,0,1,"269#1242#212#88","253#1100","481#1247",-40,1,"主人，请点击招募英雄来战斗吧~"],
+[2,3,2,1,"16#813#281#133","6#681","228#880",0,2,"哇!主人快拖动来合成更强大的英雄吧~"]]
+}

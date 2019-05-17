@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project name="HelloAnt" default="init" basedir=".">
+	<property name="wordBase" location=".." />
+	<property name="lang" value="cn" />
+	<!-- 开始构建和编译项目 -->
+	<target name="getJson">
+		<exec executable="cmd">
+			<arg line="/c ExcelToJason.exe ${wordBase}\laya\csv ${wordBase}\laya\assets\config\csvJson ${basedir}\${lang}_md5.txt"/>
+		</exec> 
+	</target>
+	
+	<target name="jsonzip" depends="getJson">
+		<zip destfile="${wordBase}\laya\assets\config\csvJson\json.zip" >
+			<zipfileset dir="${wordBase}\laya\assets\config\csvJson" includes="**/*.json"/>
+		</zip>
+	</target>
+	
+	<target name="init">
+		<antcall target="getJson"/>
+	</target>
+	
+</project>

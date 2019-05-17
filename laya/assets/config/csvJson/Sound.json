@@ -1,0 +1,12 @@
+﻿{
+"titles":["musicID","desc","file","loop","volume"],
+"data":[[10001,"加速","accecar",1,1],
+[10002,"bgm","bgmusic",0,1],
+[10003,"进入战斗","cartorunway",1,1],
+[10004,"金币","coin",1,1],
+[10005,"换位","drawcar",1,1],
+[10006,"招募英雄","summonhero",1,1],
+[10007,"解锁","unlock",1,1],
+[10008,"升级","upgradecar",1,1],
+[10009,"合成角色","makecar",1,1]]
+}

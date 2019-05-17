@@ -1,0 +1,15 @@
+<res>
+   <item name="images/map" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/hall/zjm_di01.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/hall/bg.jpg" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/headImg" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/boneAnim" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/luckPrize/luck_huanpan.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/shop/shop_cell_bg.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/daySign/day_prize_item2.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/daySign/day_prize_item2_gray.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/daySign/day_prize_bg.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/rank" type="" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/boneAnim/common" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="images/rank/rank_king.jpg" type="Sprite" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+</res>

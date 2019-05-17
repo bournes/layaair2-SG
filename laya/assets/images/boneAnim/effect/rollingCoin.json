@@ -1,0 +1,144 @@
+{
+    "frames": {
+        "j01_00.png": {
+            "frame": {
+                "h": 66,
+                "idx": 0,
+                "w": 65,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 66,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "j01_01.png": {
+            "frame": {
+                "h": 66,
+                "idx": 0,
+                "w": 61,
+                "x": 66,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 66,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 0
+            }
+        },
+        "j01_02.png": {
+            "frame": {
+                "h": 66,
+                "idx": 0,
+                "w": 40,
+                "x": 128,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 66,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 0
+            }
+        },
+        "j01_03.png": {
+            "frame": {
+                "h": 66,
+                "idx": 0,
+                "w": 24,
+                "x": 0,
+                "y": 67
+            },
+            "sourceSize": {
+                "h": 66,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 20,
+                "y": 0
+            }
+        },
+        "j01_04.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 13,
+                "x": 25,
+                "y": 67
+            },
+            "sourceSize": {
+                "h": 66,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 26,
+                "y": 2
+            }
+        },
+        "j01_05.png": {
+            "frame": {
+                "h": 66,
+                "idx": 0,
+                "w": 24,
+                "x": 39,
+                "y": 67
+            },
+            "sourceSize": {
+                "h": 66,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 20,
+                "y": 0
+            }
+        },
+        "j01_06.png": {
+            "frame": {
+                "h": 66,
+                "idx": 0,
+                "w": 39,
+                "x": 64,
+                "y": 67
+            },
+            "sourceSize": {
+                "h": 66,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 13,
+                "y": 0
+            }
+        },
+        "j01_07.png": {
+            "frame": {
+                "h": 66,
+                "idx": 0,
+                "w": 61,
+                "x": 104,
+                "y": 67
+            },
+            "sourceSize": {
+                "h": 66,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "rollingCoin.png",
+        "prefix": "rollingCoin/"
+    }
+}

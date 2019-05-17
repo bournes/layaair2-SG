@@ -1,0 +1,21 @@
+<page>
+   <item name="test/TestScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="hall/HallScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="hall/item/HeadItem.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="follow/FollowView.scene" props="" ifExport="默认" aName="关注有礼"/>
+   <item name="rank/RankView.scene" props="" ifExport="默认" aName="排行榜"/>
+   <item name="common/GoldNotEnoughView.scene" props="" ifExport="默认" aName="金币不足"/>
+   <item name="common/LevelRewardView.scene" props="" ifExport="默认" aName="等级奖励界面"/>
+   <item name="moduleView/common/OffLineRewardView.scene" props="" ifExport="默认" aName="离线奖励"/>
+   <item name="moduleView/common/LevelRewardView.scene" props="" ifExport="默认" aName="升级奖励界面"/>
+   <item name="moduleView/common/GoldNotEnoughView.scene" props="" ifExport="默认" aName="金币不足界面"/>
+   <item name="moduleView/common/DiamondBuyView.scene" props="" ifExport="默认" aName="钻石购买界面"/>
+   <item name="moduleView/hall/HeroTips.scene" props="" ifExport="默认" aName="英雄信息TIPS"/>
+   <item name="moduleView/hall/UserInfoView.scene" props="" ifExport="默认" aName="用户信息界面"/>
+   <item name="moduleView/hall/NewHeroView.scene" props="" ifExport="默认" aName="新英雄界面"/>
+   <item name="moduleView/hall/item/SystemBtn.scene" props="" ifExport="默认" aName="系统功能按钮"/>
+   <item name="moduleView/rank/RankView.scene" props="" ifExport="默认" aName="排行榜"/>
+   <item name="moduleView/common/MsgTipsView.scene" props="" ifExport="默认" aName="游戏提示界面"/>
+   <item name="moduleView/luckPrize/LuckPrizeBoxView.scene" props="" ifExport="默认" aName="倍率界面"/>
+   <item name="moduleView/luckPrize/LuckPrizeView.scene" props="" ifExport="默认" aName="转盘界面"/>
+</page>

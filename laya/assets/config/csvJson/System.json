@@ -1,0 +1,10 @@
+﻿{
+"titles":["id","name","des","openLevel","sort","icon"],
+"data":[[10001,"签到","签到",2,0,"game_dailyPrizeBtn"],
+[10002,"排行榜","排行榜",8,3,"game_rankingBtn"],
+[10003,"幸运抽奖","幸运抽奖",4,1,"game_luckPrizeBtn"],
+[10004,"任务","任务",3,2,"game_taskBtn"],
+[10005,"邀请有礼","邀请有礼",5,4,"game_shareBtn"],
+[10006,"关注","关注",6,5,"game_followPrizeBtn"],
+[10007,"投诉建议","投诉建议",10,6,"feedback_btn"]]
+}

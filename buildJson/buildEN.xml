@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project name="HelloAnt" default="init" basedir=".">
+	<property name="wordBase" location=".." />
+	<property name="lang" value="en" />
+	<!-- 开始构建和编译项目 -->
+	<target name="getJson">
+		<exec executable="cmd"  resolveexecutable="true" resultproperty="buildResult">
+			<arg line="/c ExcelToJason.exe ${wordBase}\resource\${lang}\csv ${wordBase}\resource\${lang}\json ${basedir}\${lang}_md5.txt"/>
+		</exec> 
+	</target>
+	
+	<target name="jsonzip" depends="getJson">
+		<zip destfile="${wordBase}\resource\${lang}\json\json.zip" >
+			<zipfileset dir="${wordBase}\resource\${lang}\json" includes="**/*.json"/>
+		</zip>
+	</target>
+	
+	<target name="init">
+		<antcall target="jsonzip"/>
+	</target>
+	
+</project>
